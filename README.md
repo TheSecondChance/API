@@ -13,4 +13,7 @@
     ```
     pip install -r requirement.txt
     ```
-
+3. **To Run Django**  
+    ```
+    python manage.py runserver
+    ```  
